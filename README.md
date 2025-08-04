@@ -10,6 +10,9 @@ A static clone of the Amazon homepage built using only **HTML** and **CSS**. Thi
 - Footer section with multiple links
 - Clean and structured code
 
+# 📸 Preview
+![Amazon Clone Preview] (https://drive.google.com/file/d/1NAWCgfnsxoZlzbTSd4htJ-GHOWde5xqq/view?usp=sharing)
+
 # 📁 Technologies Used
 
 - HTML5
